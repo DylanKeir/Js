@@ -1,0 +1,6 @@
+name: Js
+main: eu.dyl4n.js.JsPlugin
+author: Dylan Keir
+version: 1.0
+commands:
+  js:
